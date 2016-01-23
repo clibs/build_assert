@@ -1,0 +1,9 @@
+{
+  "description": "routines for build-time assertions", 
+  "name": "build_assert", 
+  "repo": "rustyrussell/ccan", 
+  "src": [
+    "ccan/build_assert/build_assert.h"
+  ], 
+  "version": "master"
+}
